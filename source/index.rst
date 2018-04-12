@@ -10,6 +10,8 @@ Welcome to Algorithm's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   poj/index.rst
+
 每天一道算法题目，保护身体健康。
 
 

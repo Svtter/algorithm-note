@@ -12,6 +12,7 @@ Welcome to Algorithm's documentation!
 
    poj/index.rst
    BaseTech/index.rst
+   Leetcode/index.rst
 
 每天一道算法题目，保护身体健康。
 
